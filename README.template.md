@@ -1,15 +1,16 @@
 <!-- template into which dynamic content is loaded before being written to README.md -->
 
-# [BANNER]
+<!-- banner -->
+# Travis Martin
 
 <!-- summary -->
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
+[![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
 ## Intro / About me
 Hi! Welcome to muh githob. I'm a lifelong nerd and newfound programmer.
 
-[![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
 ## Proficiencies
 <!-- ![lang badge](https://img.shields.io/badge/-lang-informational?style=for-the-badge&color=black&logo=lang) -->
@@ -36,4 +37,9 @@ Hi! Welcome to muh githob. I'm a lifelong nerd and newfound programmer.
 
 <!-- projects -->
 ## Projects
-...
+<!-- <a href="https://github.com/lincolnfleet/[repo]">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=[repo]">
+</a> -->
+<a href="https://github.com/lincolnfleet/scratch-pad">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=scratch-pad" />
+</a>
