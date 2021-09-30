@@ -8,7 +8,7 @@
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
 ## Intro / About me
-Hi! Welcome to muh githob. I'm a lifelong nerd and newfound programmer.
+Hi, I am person thing with stuff.
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
@@ -33,6 +33,8 @@ Hi! Welcome to muh githob. I'm a lifelong nerd and newfound programmer.
 ![Windows badge](https://img.shields.io/badge/-Windows-informational?style=for-the-badge&color=black&logo=Windows)
 ![Mac badge](https://img.shields.io/badge/-Mac-informational?style=for-the-badge&color=black&logo=Apple)
 ![Bash badge](https://img.shields.io/badge/-Bash-informational?style=for-the-badge&color=black&logo=Bash)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnfleet&layout=compact)](https://github.com/lincolnfleet/github-readme-stats)
 
 
 <!-- projects -->
