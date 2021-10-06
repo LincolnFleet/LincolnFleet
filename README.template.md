@@ -13,7 +13,7 @@ Hi, I am person thing with stuff.
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
 ## Proficiencies
-<!-- ![lang badge](https://img.shields.io/badge/-lang-informational?style=for-the-badge&color=black&logo=lang) -->
+<!-- ![_lang_ badge](https://img.shields.io/badge/-_lang_-informational?style=for-the-badge&color=black&logo=_lang_) -->
 ![HTML badge](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&color=black&logo=HTML5)
 ![CSS badge](https://img.shields.io/badge/-CSS-informational?style=for-the-badge&color=black&logo=CSS3)
 ![Markdown badge](https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&color=black&logo=Markdown)
@@ -33,6 +33,7 @@ Hi, I am person thing with stuff.
 ![Windows badge](https://img.shields.io/badge/-Windows-informational?style=for-the-badge&color=black&logo=Windows)
 ![Mac badge](https://img.shields.io/badge/-Mac-informational?style=for-the-badge&color=black&logo=Apple)
 ![Bash badge](https://img.shields.io/badge/-Bash-informational?style=for-the-badge&color=black&logo=Bash)
+![ZSH badge](https://img.shields.io/badge/-ZSH-informational?style=for-the-badge&color=black&logo=ZSH)
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnfleet&layout=compact)](https://github.com/lincolnfleet/github-readme-stats)
 
@@ -45,3 +46,5 @@ Hi, I am person thing with stuff.
 <a href="https://github.com/lincolnfleet/scratch-pad">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=scratch-pad" />
 </a>
+
+<!-- auto added testimonials for lolz? Word filter, for sure -->
