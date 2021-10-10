@@ -4,11 +4,12 @@
 # Travis Martin
 
 <!-- summary -->
+##### _Updated: {{updated_at}}_
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
 ## Intro / About me
-Hi, I am person thing with stuff.
+Hi, I am thing person with stuff do.
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
@@ -37,14 +38,15 @@ Hi, I am person thing with stuff.
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnfleet&layout=compact)](https://github.com/lincolnfleet/github-readme-stats)
 
-
 <!-- projects -->
 ## Projects
 <!-- <a href="https://github.com/lincolnfleet/[repo]">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=[repo]">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&_repo_=[_repo_]">
 </a> -->
 <a href="https://github.com/lincolnfleet/scratch-pad">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=scratch-pad" />
 </a>
 
 <!-- auto added testimonials for lolz? Word filter, for sure -->
+
+#### Last Updated: {{updated_at}}
