@@ -48,5 +48,3 @@ Hi, I am thing person with stuff do.
 </a>
 
 <!-- auto added testimonials for lolz? Word filter, for sure -->
-
-#### Last Updated: {{updated_at}}
