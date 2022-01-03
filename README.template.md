@@ -5,11 +5,12 @@
 
 <!-- summary -->
 ##### _Updated: {{updated_at}}_
+
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
-## Intro / About me
-Hi, I am thing person with stuff do.
+## Hi, I'm Travis!
+I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts.
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
