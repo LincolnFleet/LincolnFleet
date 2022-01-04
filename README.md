@@ -4,12 +4,13 @@
 # Travis Martin
 
 <!-- summary -->
-##### _Updated: Mon, 03 Jan 2022 08:15:04 GMT_
+##### _Updated: Tue, 04 Jan 2022 08:14:57 GMT_
+
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
-## Intro / About me
-Hi, I am thing person with stuff do.
+## Hi, I'm Travis!
+I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts.
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
