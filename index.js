@@ -8,7 +8,7 @@ const path = require('path');
 
 const dynamicFields = [
 	{
-		name: "example",
+		name: "example",  // Example of object structure. Unused in code
 		source: "",
 		uri: "",
 		dataPath: [],
@@ -30,7 +30,7 @@ async function main() {
 	// Guard against empty template.
 	if (!readme) { return "## [Automated content injection failed! Uh oh, I broke something...]" }
 
-	// Replace each field pattern in template string with the actual data, if available.
+	// Replace each arbitrary field pattern in template string with the actual data, if available.
 	for (const field of dynamicFields) {
 		const { name, source, uri, dataPath, getData } = field;
 		// Guard against empty required fields. Not entirely necessary but... whatevs.
@@ -53,7 +53,7 @@ async function main() {
 				let fetchData = req
 				// Follow the dataPath to get target data.
 				dataPath.forEach((pathPart) => fetchData = fetchData[pathPart])
-				// Replace field name pattern with target data.
+				// Replace arbitrary field name pattern with target data.
 				readme = readme.replace(`{{${name}}}`, fetchData.toString())
 				break;
 
