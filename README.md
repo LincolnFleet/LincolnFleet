@@ -4,7 +4,7 @@
 # Travis Martin
 
 <!-- summary -->
-##### _Updated: Thu, 13 Jan 2022 08:15:28 GMT_
+##### _Updated: Fri, 14 Jan 2022 08:15:14 GMT_
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
