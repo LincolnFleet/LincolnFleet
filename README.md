@@ -3,14 +3,18 @@
 <!-- banner -->
 # Travis Martin
 
-<!-- summary -->
-##### _Updated: Tue, 08 Feb 2022 08:13:22 GMT_
-
+<!-- links -->
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/travisemartin/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
+<!-- meta -->
+_Updated: Wed, 09 Feb 2022 08:14:04 GMT_
+
+<!-- summary -->
 ## Hi, I'm Travis!
-I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts.
+>Travis is a full-stack software developer from Atlanta, GA. Drawing from undergraduate studies in journalism, a wide breadth of >work experience, and a lifelong interest in digital technology, he builds systems that are as well thought-out as they are easy >to use. Most recently, Travis has put his technical acumen to good use in the startup space, where his designs have served as a >core piece of several data system and UI patents.
+
+I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller.
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
