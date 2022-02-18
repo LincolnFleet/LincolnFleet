@@ -50,8 +50,10 @@ _Updated: {{updated_at}}_
 <a href="https://github.com/lincolnfleet/scratch-pad">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=scratch-pad" />
 </a>
-<a href="https://github.com/lincolnfleet/barista_bot">
+<!-- <a href="https://github.com/lincolnfleet/barista_bot">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&_repo_=barista_bot">
-</a>
+</a> -->
 
-<!-- auto added testimonials for lolz? Word filter, for sure -->
+<!-- auto added testimonials with word filter? -->
+<!-- example dev env, running on cloud? -->
+
