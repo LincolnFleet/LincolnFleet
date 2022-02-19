@@ -8,13 +8,12 @@
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
 <!-- meta -->
-_Updated: Fri, 18 Feb 2022 08:13:50 GMT_
+_Updated: Sat, 19 Feb 2022 08:02:57 GMT_
 
 <!-- summary -->
 ## Hi, I'm Travis!
->Travis is a full-stack software developer from Atlanta, GA. Drawing from undergraduate studies in journalism, a wide breadth of >work experience, and a lifelong interest in digital technology, he builds systems that are as well thought-out as they are easy >to use. Most recently, Travis has put his technical acumen to good use in the startup space, where his designs have served as a >core piece of several data system and UI patents.
+> I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller. Drawing from undergraduate studies in communications, a wide breadth of work experience, and a lifelong interest in digital technology, my goal is to build systems that are as well thought-out as they are easy to use. Most recently, my skills have seen good use in the startup space, where my designs have served as a core piece of several data system and UI patents.
 
-I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller.
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
 
@@ -51,5 +50,10 @@ I'm a software developer with a fondness for building systems to solve unique bu
 <a href="https://github.com/lincolnfleet/scratch-pad">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&repo=scratch-pad" />
 </a>
+<!-- <a href="https://github.com/lincolnfleet/barista_bot">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=lincolnfleet&_repo_=barista_bot">
+</a> -->
 
-<!-- auto added testimonials for lolz? Word filter, for sure -->
+<!-- auto added testimonials with word filter? -->
+<!-- example dev env, running on cloud? -->
+
