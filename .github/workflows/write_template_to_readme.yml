@@ -1,7 +1,7 @@
 name: Inject template into README
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 8 * * 2,5"
   # cron notation: https://en.wikipedia.org/wiki/Cron#CRON_expression
     # "(second) [minute] [hour] [day-of-month] [month] [day-of-week] (year)"
     # * = every
