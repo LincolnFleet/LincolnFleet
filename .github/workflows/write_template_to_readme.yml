@@ -1,7 +1,7 @@
 name: Inject template into README
 on:
   schedule:
-    - cron: "0 8 * * 2,5"
+    - cron: "0 8 * * 2"
   # cron notation: https://en.wikipedia.org/wiki/Cron#CRON_expression
     # "(second) [minute] [hour] [day-of-month] [month] [day-of-week] (year)"
     # * = every
@@ -35,7 +35,7 @@ jobs:
         git pull
         git add .
         git config --global user.name "Travis Martin"
-        git config --global user.email "travisemerymartin@gmail.com"
+        git config --global user.email "github@travismartin.dev"
         git commit -m "[Automated] Update README"
     
     - name: Push changes
