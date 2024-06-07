@@ -12,7 +12,7 @@ _Updated: {{updated_at}}_
 
 <!-- summary -->
 ## Hi, I'm Travis!
-> I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller. Drawing from undergraduate studies in communications, a wide breadth of work experience, and a lifelong interest in digital technology, my goal is to build systems that are as well thought-out as they are easy to use. Most recently, my skills have seen good use in the startup space, where my designs have served as a core piece of several data system and UI patents.
+> I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller. Drawing from undergraduate studies in communications, a wide breadth of work experience, and a lifelong interest in digital technology, my goal is to build systems that are as well thought-out as they are easy to use.
 
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
