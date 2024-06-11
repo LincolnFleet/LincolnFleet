@@ -8,11 +8,11 @@
 [![Twitter badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/lincolnfleet)
 
 <!-- meta -->
-_Updated: Tue, 04 Jun 2024 08:02:58 GMT_
+_Updated: Tue, 11 Jun 2024 08:03:20 GMT_
 
 <!-- summary -->
 ## Hi, I'm Travis!
-> I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller. Drawing from undergraduate studies in communications, a wide breadth of work experience, and a lifelong interest in digital technology, my goal is to build systems that are as well thought-out as they are easy to use. Most recently, my skills have seen good use in the startup space, where my designs have served as a core piece of several data system and UI patents.
+> I'm a software developer with a fondness for building systems to solve unique business challenges. I like learning new languages, technologies, and concepts. I'm a giant nerd at heart, a child of the internet, a lifelong gamer, and online community dweller. Drawing from undergraduate studies in communications, a wide breadth of work experience, and a lifelong interest in digital technology, my goal is to build systems that are as well thought-out as they are easy to use.
 
 
 [![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnfleet&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/lincolnfleet/github-readme-stats)
